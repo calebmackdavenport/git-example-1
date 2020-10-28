@@ -1,0 +1,6 @@
+[submodule "store/submodule"]
+	path = store/submodule
+	url = https://github.com/smebdi/git-submodule-example.git
+[submodule "store/submodule2"]
+	path = store/submodule2
+	url = https://github.com/smebdi/git-submodule-example-2.git
