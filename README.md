@@ -1,6 +1,9 @@
 
 # Git Submodule Example
 
+This assumes some knowledge of submodules and their usage.  
+For a cursory glance at submodules, please visit the official documentation [here](https://git-scm.com/book/en/v2/Git-Tools-Submodules).
+
 This is an example of two projects sharing code.  
 The other project is available [here](https://github.com/smebdi/git-example-2).
 
